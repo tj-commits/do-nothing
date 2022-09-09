@@ -1,0 +1,23 @@
+{
+  "name": "do-nothing",
+  "version": "1.0.0",
+  "description": "does nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schniddsel/do-nothing.git"
+  },
+  "keywords": [
+    "does",
+    "nothing"
+  ],
+  "author": "Ich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schniddsel/do-nothing/issues"
+  },
+  "homepage": "https://github.com/schniddsel/do-nothing#readme"
+}
